@@ -1,0 +1,23 @@
+# PDF Processing
+pymupdf
+
+# LangChain Framework
+langchain
+langchain-community
+langchain-text-splitters
+
+# Local LLM Integration
+langchain-ollama
+
+# Embeddings
+sentence-transformers
+langchain-huggingface
+
+# Vector Database
+faiss-cpu
+
+# Web Application
+streamlit
+
+# Environment Variables
+python-dotenv
